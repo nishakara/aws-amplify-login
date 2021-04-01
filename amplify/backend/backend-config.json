@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "igpsv46b16e3e": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
