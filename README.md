@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+<!-- npm install -g @aws-amplify/cli
+npx create-react-app appname
+amplify configure
+amplify init
+amplify add auth
+amplify push
+npm install --save aws-amplify @aws-amplify/ui-react
+npm start -->
