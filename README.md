@@ -71,11 +71,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-<!-- npm install -g @aws-amplify/cli
+npm install -g @aws-amplify/cli
 npx create-react-app appname
 amplify configure
 amplify init
 amplify add auth
 amplify push
 npm install --save aws-amplify @aws-amplify/ui-react
-npm start -->
+npm start
